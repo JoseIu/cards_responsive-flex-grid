@@ -1,0 +1,34 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Header from "../components/header/Header.astro";
+import cards from "../data/data.json";
+import { GridTemplate } from "../components/grid-template/GridTemplate";
+---
+
+<Layout title="Grid-card">
+  <Header title="Grid-card" />
+  <main class="wrapper">
+    <h2 class="title">Platos de comida 🥑</h2>
+    <div class="cards">
+      <!-- {
+        cards.map((card) => (
+          <Card
+            title={card.title}
+            image={card.image}
+            description={card.description}
+          />
+        ))
+      } -->
+      <GridTemplate initalCards={cards} />
+    </div>
+  </main>
+</Layout>
+
+<style>
+  .cards {
+    padding: 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+    gap: 1rem;
+  }
+</style>
