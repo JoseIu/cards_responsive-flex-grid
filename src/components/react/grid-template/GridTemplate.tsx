@@ -13,7 +13,7 @@ export const GridTemplate = ({ initalCards }: GridTemplateProps) => {
   const [gridValue, setGridValue] = useState(0);
   const cardsClass = gridValue === 0 ? "cards--fill" : "cards--fit";
 
-  const cardsFiltered = filterCards(cards, search);
+  let cardsFiltered = filterCards(cards, search);
 
   return (
     <>
@@ -46,7 +46,7 @@ export const GridTemplate = ({ initalCards }: GridTemplateProps) => {
         ) : (
           cardsFiltered.map((card) => (
             <Card
-              key={card.title}
+              key={card.id}
               image={card.image}
               title={card.title}
               description={card.description}
