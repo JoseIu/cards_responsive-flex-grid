@@ -4,10 +4,10 @@ on:
     branches:
       - main
     paths:
-      - './**/*.jpg'
-      - './**/*.jpeg'
-      - './**/*.png'
-      - './**/*.webp'
+      - '**.jpg'
+      - '**.jpeg'
+      - '**.png'
+      - '**.webp'
 
 jobs:
   build:
@@ -17,12 +17,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Compress Images
         uses: calibreapp/image-actions@main
         with:
-          githubToken: ${{ secrets.OPTIMIZE_IMAGES_TOKEN }}
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
           jpegQuality: '80'
           jpegProgressive: false
           pngQuality: '80'
