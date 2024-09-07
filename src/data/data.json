@@ -1,50 +1,72 @@
 [
   {
+    "id": 0,
     "image": "./ensalada-cesar.webp",
     "title": "Ensalada César",
     "description": "Fresca ensalada de lechuga romana con pollo, crutones y aderezo césar."
   },
   {
+    "id": 1,
     "image": "./sushi.webp",
     "title": "Sushi Variado",
     "description": "Selección de makis, nigiris y sashimis con salsa de soya y jengibre."
   },
   {
+    "id": 2,
     "image": "./pizza-margarita.webp",
     "title": "Pizza Margarita",
     "description": "Clásica pizza italiana con tomate, albahaca fresca y mozzarella derretida."
   },
   {
+    "id": 3,
     "image": "./hamburguesa.webp",
     "title": "Hamburguesa con Queso",
     "description": "Jugosa hamburguesa de res con queso cheddar, lechuga y tomate."
   },
   {
+    "id": 4,
     "image": "./ceviche.webp",
     "title": "Ceviche Peruano",
     "description": "Fresco ceviche de pescado con jugo de limón, cebolla y cilantro."
   },
   {
+    "id": 5,
     "image": "./paella.webp",
     "title": "Paella Valenciana",
     "description": "Deliciosa paella con mariscos, pollo, conejo y azafrán."
   },
   {
+    "id": 6,
     "image": "./ramen.webp",
     "title": "Ramen Japonés",
     "description": "Sopa de fideos ramen con huevo, algas, cerdo y verduras."
   },
   {
+    "id": 7,
     "image": "./tacos-pastor.webp",
     "title": "Tacos al Pastor",
     "description": "Tortillas con carne de cerdo marinada, piña, cebolla y cilantro."
   },
   {
+    "id": 8,
     "image": "./pollo-curry.webp",
     "title": "Pollo al Curry",
     "description": "Cremoso curry de pollo con especias y leche de coco."
   },
   {
+    "id": 9,
+    "image": "./lasana.webp",
+    "title": "Lasaña Boloñesa",
+    "description": "Capas de pasta con salsa boloñesa, bechamel y queso gratinado."
+  },
+  {
+    "id": 10,
+    "image": "./pollo-curry.webp",
+    "title": "Pollo al Curry",
+    "description": "Cremoso curry de pollo con especias y leche de coco."
+  },
+  {
+    "id": 11,
     "image": "./lasana.webp",
     "title": "Lasaña Boloñesa",
     "description": "Capas de pasta con salsa boloñesa, bechamel y queso gratinado."
