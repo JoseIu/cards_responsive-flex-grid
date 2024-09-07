@@ -1,51 +1,51 @@
 [
   {
-    "image": "https://example.com/imagen1.jpg",
+    "image": "./ensalada-cesar.webp",
     "title": "Ensalada César",
     "description": "Fresca ensalada de lechuga romana con pollo, crutones y aderezo césar."
   },
   {
-    "image": "https://example.com/imagen2.jpg",
+    "image": "./sushi.jpg",
     "title": "Sushi Variado",
     "description": "Selección de makis, nigiris y sashimis con salsa de soya y jengibre."
   },
   {
-    "image": "https://example.com/imagen3.jpg",
+    "image": "./pizza-margarita.jpg",
     "title": "Pizza Margarita",
     "description": "Clásica pizza italiana con tomate, albahaca fresca y mozzarella derretida."
   },
   {
-    "image": "https://example.com/imagen4.jpg",
+    "image": "./hamburguesa.jpg",
     "title": "Hamburguesa con Queso",
     "description": "Jugosa hamburguesa de res con queso cheddar, lechuga y tomate."
   },
   {
-    "image": "https://example.com/imagen5.jpg",
+    "image": "./ceviche.jpg",
     "title": "Ceviche Peruano",
     "description": "Fresco ceviche de pescado con jugo de limón, cebolla y cilantro."
   },
   {
-    "image": "https://example.com/imagen6.jpg",
+    "image": "./paella.jpg",
     "title": "Paella Valenciana",
     "description": "Deliciosa paella con mariscos, pollo, conejo y azafrán."
   },
   {
-    "image": "https://example.com/imagen7.jpg",
+    "image": "./ramen.jpg",
     "title": "Ramen Japonés",
     "description": "Sopa de fideos ramen con huevo, algas, cerdo y verduras."
   },
   {
-    "image": "https://example.com/imagen8.jpg",
+    "image": "./tacos-pastor.jpg",
     "title": "Tacos al Pastor",
     "description": "Tortillas con carne de cerdo marinada, piña, cebolla y cilantro."
   },
   {
-    "image": "https://example.com/imagen9.jpg",
+    "image": "./pollo-curry.jpg",
     "title": "Pollo al Curry",
     "description": "Cremoso curry de pollo con especias y leche de coco."
   },
   {
-    "image": "https://example.com/imagen10.jpg",
+    "image": "./lasana.jpg",
     "title": "Lasaña Boloñesa",
     "description": "Capas de pasta con salsa boloñesa, bechamel y queso gratinado."
   }
