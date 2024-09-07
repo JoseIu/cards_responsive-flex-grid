@@ -5,47 +5,47 @@
     "description": "Fresca ensalada de lechuga romana con pollo, crutones y aderezo césar."
   },
   {
-    "image": "./sushi.jpg",
+    "image": "./sushi.webp",
     "title": "Sushi Variado",
     "description": "Selección de makis, nigiris y sashimis con salsa de soya y jengibre."
   },
   {
-    "image": "./pizza-margarita.jpg",
+    "image": "./pizza-margarita.webp",
     "title": "Pizza Margarita",
     "description": "Clásica pizza italiana con tomate, albahaca fresca y mozzarella derretida."
   },
   {
-    "image": "./hamburguesa.jpg",
+    "image": "./hamburguesa.webp",
     "title": "Hamburguesa con Queso",
     "description": "Jugosa hamburguesa de res con queso cheddar, lechuga y tomate."
   },
   {
-    "image": "./ceviche.jpg",
+    "image": "./ceviche.webp",
     "title": "Ceviche Peruano",
     "description": "Fresco ceviche de pescado con jugo de limón, cebolla y cilantro."
   },
   {
-    "image": "./paella.jpg",
+    "image": "./paella.webp",
     "title": "Paella Valenciana",
     "description": "Deliciosa paella con mariscos, pollo, conejo y azafrán."
   },
   {
-    "image": "./ramen.jpg",
+    "image": "./ramen.webp",
     "title": "Ramen Japonés",
     "description": "Sopa de fideos ramen con huevo, algas, cerdo y verduras."
   },
   {
-    "image": "./tacos-pastor.jpg",
+    "image": "./tacos-pastor.webp",
     "title": "Tacos al Pastor",
     "description": "Tortillas con carne de cerdo marinada, piña, cebolla y cilantro."
   },
   {
-    "image": "./pollo-curry.jpg",
+    "image": "./pollo-curry.webp",
     "title": "Pollo al Curry",
     "description": "Cremoso curry de pollo con especias y leche de coco."
   },
   {
-    "image": "./lasana.jpg",
+    "image": "./lasana.webp",
     "title": "Lasaña Boloñesa",
     "description": "Capas de pasta con salsa boloñesa, bechamel y queso gratinado."
   }
