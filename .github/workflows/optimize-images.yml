@@ -22,7 +22,7 @@ jobs:
       - name: Compress Images
         uses: calibreapp/image-actions@main
         with:
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          githubToken: ${{ secrets.OPTIMIZE_IMAGES_TOKEN }}
           jpegQuality: '80'
           jpegProgressive: false
           pngQuality: '80'
