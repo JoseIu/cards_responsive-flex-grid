@@ -1,0 +1,23 @@
+.card {
+  background-color: var(--color-card);
+  border-radius: 0.5rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  .card__image {
+    aspect-ratio: 14/9;
+  }
+  .card__content {
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    row-gap: 1em;
+  }
+  .card__btn {
+    padding: 0.5em;
+    width: 100%;
+    border-radius: 0.3rem;
+    text-align: center;
+    background-color: var(--color-accent);
+    color: var(--color-primary-text);
+  }
+}
