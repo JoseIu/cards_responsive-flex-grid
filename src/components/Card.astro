@@ -10,7 +10,6 @@ const { image, title, description } = Astro.props;
 
 <article class="card">
   <img class="card__image" src={image} alt={title} />
-
   <div class="card__content">
     <h2 class="card__title">{title}</h2>
     <p class="card__description">{description}</p>
@@ -25,8 +24,9 @@ const { image, title, description } = Astro.props;
     background-color: var(--color-card);
     border-radius: 0.5rem;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
     .card__image {
-      aspect-ratio: 16/9;
+      aspect-ratio: 14/9;
     }
     .card__content {
       padding: 1em;
