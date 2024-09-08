@@ -25,6 +25,10 @@ const { image, title, description } = Astro.props;
     border-radius: 0.5rem;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     overflow: hidden;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     .card__image {
       aspect-ratio: 14/9;
     }
